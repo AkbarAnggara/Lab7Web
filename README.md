@@ -59,7 +59,7 @@ Berikut adalah tampilannya<br>
 
 ### JAWABAN TUGAS
 Berikut adalah jawaban dari soal Pertanyaan dan Tugas<br>
-Kalian bisa melihatnya dengan klik disamping [Click Here](tugas.php)<br>
+Kalian bisa melihatnya dengan klik disamping [Click Here](lab7_php_dasar/tugas.php)<br>
 Berikut adalah tampilan hasil dari codingan tersebut<br>
 ![Screenshot_16.png](Pic/Screenshot_16.png)<br>
   
